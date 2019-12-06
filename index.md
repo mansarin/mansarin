@@ -1,6 +1,5 @@
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
- <title>Mohammad Ansarin's Personal Homepage</title></head><body>Welcome to my personal website!<br>
+<html><head><title>Mohammad Ansarin's Personal Homepage</title></head><body>Welcome to my personal website!<br>
     
     <br>
 
